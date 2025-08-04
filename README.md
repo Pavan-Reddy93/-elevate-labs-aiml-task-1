@@ -70,9 +70,4 @@ _Image saved as `outliers_boxplot.png`_
 - Outlier detection using IQR
 - Importance of preprocessing in improving model accuracy
 
----
 
-## Submission Info
-Internship Task 1  
-**Topic:** Data Cleaning & Preprocessing  
-**Time Window:** 10:00 AM – 10:00 PM  
